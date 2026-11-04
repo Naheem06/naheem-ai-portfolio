@@ -1,0 +1,416 @@
+{
+  "name": "Daneesh Naheem P",
+  "tagline": "AI Engineer | Computer Vision & Generative AI | Data Science & Analytics",
+  "introSkills": [
+    "Python",
+    "Java",
+    "JavaScript",
+    "SQL",
+    "Machine Learning",
+    "Computer Vision",
+    "Data Analysis",
+    "Full-Stack Development",
+    "HTML/CSS",
+    "React.js"
+  ],
+  "phone": "+91-9061253681",
+  "email": "daneeshnaheem@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/daneesh-naheem-606a9921a",
+  "github": "https://github.com/Naheem06",
+  "resume": "/Daneesh-Naheem-AI-Engineer-Resume.pdf",
+  "about": {
+    "summary": "AI Engineer at Lenok Solutions, building enterprise AI applications across computer vision, intelligent document processing, and retrieval-augmented generation. I work with Python, Java, FastAPI, Spring Boot, PyTorch, and React to turn complex data into practical systems, with a focus on model performance, reliability, and real-world problem-solving.",
+    "objective": "Seeking opportunities in AI engineering, data science, machine learning, and data analytics. Also interested in data engineering, Python development, full-stack development, and software engineering, bringing programming expertise and problem-solving skills to efficient, scalable applications.",
+    "background": "I hold a B.E. in Artificial Intelligence and Machine Learning from Yenepoya Institute of Technology (VTU), graduating with First Class with Distinction. My foundation spans data analysis, statistical modeling, data visualization, full-stack development, and workflow automation, including RPA with UiPath. I completed practical full-stack training at Kodnest Technologies, Bangalore."
+  },
+  "skills": {
+    "technical": [
+      "Languages: Python , Java, C, C++, SQL, HTML/CSS, JavaScript, React.js (Learning), R (Basic)",
+      "Frameworks/Libraries: Flask, TensorFlow, OpenCV, Pandas, Matplotlib, Seaborn, PyTorch, NumPy, TextBlob, Pyttsx3, Requests, Selenium",
+      "Databases: MongoDB, MySQL, SQLite",
+      "Tools: Git, GitHub, Postman, Jupyter Notebook, VS Code, Power BI, Tableau (Basic), UiPath",
+      "Concepts: Machine Learning, Deep Learning, Artificial Intelligence, Data Engineering, Data Analysis, RPA, Computer Vision, Model Tuning, DSA, REST API, Web Deployment, ETL, Data Wrangling, Dashboarding, OOP, Scripting, File I/O, Data Handling, Error Handling, Full-Stack Development"
+    ],
+    "soft": [
+      "Communication",
+      "Teamwork",
+      "Leadership",
+      "Problem Solving",
+      "Time Management",
+      "Analytical Thinking",
+      "Adaptability",
+      "Team Collaboration"
+    ],
+    "groups": [
+      {
+        "title": "AI & machine learning",
+        "items": [
+          "Machine Learning",
+          "Deep Learning",
+          "CNN",
+          "Computer Vision",
+          "NLP",
+          "Generative AI",
+          "LLMs",
+          "RAG",
+          "Model Tuning",
+          "BERT",
+          "FER",
+          "Whisper"
+        ]
+      },
+      {
+        "title": "Computer vision & OCR",
+        "items": [
+          "YOLOv8",
+          "YOLOv8-Seg",
+          "YOLO26-Pose",
+          "ByteTrack",
+          "OCSort",
+          "OpenCV",
+          "ONNX Runtime",
+          "RapidOCR",
+          "Object Detection",
+          "Segmentation",
+          "Tracking"
+        ]
+      },
+      {
+        "title": "Frameworks & AI tooling",
+        "items": [
+          "PyTorch",
+          "TensorFlow",
+          "FastAPI",
+          "Flask",
+          "Spring Boot",
+          "Spring AI",
+          "LangChain",
+          "Ollama",
+          "Azure Document Intelligence",
+          "Microsoft Foundry"
+        ]
+      },
+      {
+        "title": "Programming & frontend",
+        "items": [
+          "Python",
+          "Java",
+          "C",
+          "C++",
+          "SQL",
+          "HTML/CSS",
+          "JavaScript",
+          "TypeScript",
+          "React.js",
+          "R (Basic)"
+        ]
+      },
+      {
+        "title": "Data & analytics",
+        "items": [
+          "Pandas",
+          "NumPy",
+          "Matplotlib",
+          "Seaborn",
+          "Power BI",
+          "Tableau (Basic)",
+          "ETL",
+          "Data Wrangling",
+          "Dashboarding",
+          "Data Engineering",
+          "Talend Open Studio"
+        ]
+      },
+      {
+        "title": "Databases & retrieval",
+        "items": [
+          "PostgreSQL",
+          "MySQL",
+          "MongoDB",
+          "SQLite",
+          "PgVector",
+          "FAISS"
+        ]
+      },
+      {
+        "title": "Backend & delivery",
+        "items": [
+          "REST APIs",
+          "WebSockets",
+          "Spring Data JPA",
+          "Hibernate",
+          "API-key Filters",
+          "Docker",
+          "Maven",
+          "Git",
+          "GitHub",
+          "Postman",
+          "Web Deployment"
+        ]
+      },
+      {
+        "title": "Development & automation",
+        "items": [
+          "OOP",
+          "DSA",
+          "Scripting",
+          "File I/O",
+          "Data Handling",
+          "Error Handling",
+          "Full-Stack Development",
+          "Jupyter Notebook",
+          "VS Code",
+          "UiPath",
+          "RPA",
+          "Selenium",
+          "Requests",
+          "TextBlob",
+          "Pyttsx3"
+        ]
+      }
+    ]
+  },
+  "projects": [
+    {
+      "title": "Lenok TMS — Turnaround Management System",
+      "category": "Enterprise AI",
+      "discipline": "Computer vision · Real-time analytics",
+      "duration": "Professional work · Lenok Solutions",
+      "description": "Built a multi-camera AI pipeline to analyze aircraft and ground-support-equipment interactions in real time. Integrated PostgreSQL telemetry with a React dashboard for operational monitoring.",
+      "technologies": "Python, YOLOv8-Seg, ByteTrack, PyTorch, FastAPI, OpenCV, React, PostgreSQL",
+      "problem": "Understand aircraft and ground-support-equipment interactions across multiple camera streams.",
+      "approach": "Improved aircraft segmentation with custom mask processing and OpenCV morphology. Developed tracking and turnaround event logic using ByteTrack and finite-state machines.",
+      "outcome": "Real-time event analysis, PostgreSQL telemetry, and an operational monitoring dashboard.",
+      "visual": "vision",
+      "github": "",
+      "demo": "",
+      "kind": "Professional project"
+    },
+    {
+      "title": "Lenok Airport CRM — AI Contract Extraction and Review",
+      "category": "Enterprise AI",
+      "discipline": "Document intelligence · Human review",
+      "duration": "Professional work · Lenok Solutions",
+      "description": "Built an evaluation-ready CRM contract review application for scanned PDFs, native PDFs, and DOCX files using Azure Document Intelligence and Microsoft Foundry.",
+      "technologies": "Python, FastAPI, Azure Document Intelligence, Microsoft Foundry, JavaScript, Docker",
+      "problem": "Extract contract details with evidence that users can verify before creating a CRM record.",
+      "approach": "Added structured field extraction, page citations, evidence checks, and a review screen for users to correct results.",
+      "outcome": "A document-to-review workflow with traceable evidence and user correction before CRM record creation.",
+      "visual": "document",
+      "github": "",
+      "demo": "",
+      "kind": "Professional project"
+    },
+    {
+      "title": "Enterprise Vision Extraction Engine — Airport Utility OCR",
+      "category": "Enterprise AI",
+      "discipline": "OCR · Backend engineering",
+      "duration": "Professional work · Lenok Solutions",
+      "description": "Built a Spring Boot service to extract meter readings, dates, and times from scratched and high-glare seven-segment LCD images.",
+      "technologies": "Java 21, Spring Boot, ONNX Runtime (RapidOCR), PostgreSQL, Spring Data JPA, REST APIs",
+      "problem": "Read utility meters from difficult images with broken LCD segments, scratches, and glare.",
+      "approach": "Used morphological dilation before ONNX OCR inference and deterministic regular expressions for parsing. Added Laplacian-variance and pixel-threshold quality checks, API-key filtering, and offline mobile synchronization support.",
+      "outcome": "Searchable verification metadata in PostgreSQL, with raw images archived on disk.",
+      "visual": "ocr",
+      "github": "",
+      "demo": "",
+      "kind": "Professional project"
+    },
+    {
+      "title": "SmartLog Occupancy",
+      "category": "Enterprise AI",
+      "discipline": "Pose estimation · Video analytics",
+      "duration": "Professional work · Lenok Solutions",
+      "description": "Developed real-time entry/exit counting using YOLO, YOLO26-Pose ankle-keypoint detection, OCSort, polygon zones, and RTSP camera streams.",
+      "technologies": "Python, YOLO, YOLO26-Pose, OCSort, FastAPI, Docker, PostgreSQL, WebSockets",
+      "problem": "Count entry and exit events from live camera streams using pose-aware tracking and polygon zones.",
+      "approach": "Improved stream handling with multithreaded queues, frame dropping, FP16 inference, and dynamic resolution scaling.",
+      "outcome": "Live occupancy analytics exposed through FastAPI, WebSockets, and PostgreSQL.",
+      "visual": "occupancy",
+      "github": "",
+      "demo": "",
+      "kind": "Professional project"
+    },
+    {
+      "title": "Airport Management RAG Chatbot",
+      "category": "Enterprise AI",
+      "discipline": "Generative AI · Information retrieval",
+      "duration": "Professional work · Lenok Solutions",
+      "description": "Built a local RAG chatbot for searching airport operations and compliance documents.",
+      "technologies": "Java, Spring Boot, Spring AI, Ollama, PgVector",
+      "problem": "Search airport operations and compliance documentation through a conversational interface.",
+      "approach": "Combined semantic embeddings, vector storage, local LLM inference, and chat memory.",
+      "outcome": "A local retrieval-augmented chatbot for enterprise document search.",
+      "visual": "rag",
+      "github": "",
+      "demo": "",
+      "kind": "Professional project"
+    },
+    {
+      "title": "AI-Powered Task Optimizer",
+      "duration": "Feb 2025 – Apr 2025",
+      "description": "Developed a Flask-based platform to detect emotions via BERT, FER, Whisper. Logs stored in SQLite. Dashboard shows task suggestions, mood trends, and HR alerts.",
+      "technologies": "Flask, BERT, FER, Whisper, SQLite, Python",
+      "github": "https://github.com/Naheem06/Ai---Task-optimizer",
+      "demo": "",
+      "category": "ML & vision",
+      "kind": "Portfolio project",
+      "discipline": "Multimodal AI · Automation",
+      "visual": "multimodal"
+    },
+    {
+      "title": "Sign Language to Text & Audio Generator",
+      "duration": "Oct 2024 – Feb 2025",
+      "description": "Built a CNN-based model using OpenCV to recognize ASL gestures, converting to text and audio with Pyttsx3. Real-time inference enabled.",
+      "technologies": "CNN, OpenCV, Pyttsx3, Python",
+      "github": "",
+      "demo": "",
+      "category": "ML & vision",
+      "kind": "Portfolio project",
+      "discipline": "Computer vision · Accessibility",
+      "visual": "gesture"
+    },
+    {
+      "title": "Emotion Detection with OpenCV",
+      "duration": "Feb 2025 – Apr 2025",
+      "description": "CNN model classifying facial expressions in real-time (happy, sad, angry, surprise) using webcam.",
+      "technologies": "CNN, OpenCV, Python",
+      "github": "",
+      "demo": "",
+      "category": "ML & vision",
+      "kind": "Portfolio project",
+      "discipline": "Computer vision · Classification",
+      "visual": "emotion"
+    },
+    {
+      "title": "Crop Disease Detection with CNN",
+      "duration": "Apr 2024 – Jul 2024",
+      "description": "Trained CNN to detect leaf diseases (blight, rust). Web interface with predicted class and confidence.",
+      "technologies": "CNN, Python, Web Interface",
+      "github": "",
+      "demo": "",
+      "category": "ML & vision",
+      "kind": "Portfolio project",
+      "discipline": "Deep learning · Agriculture",
+      "visual": "leaf"
+    },
+    {
+      "title": "College Management System",
+      "duration": "Jan 2024 – May 2024",
+      "description": "MongoDB-backed portal to manage student records, attendance, and performance with role-based login and dashboards.",
+      "technologies": "MongoDB, Python/Flask, HTML/CSS",
+      "github": "",
+      "demo": "",
+      "category": "Applications",
+      "kind": "Portfolio project",
+      "discipline": "Full-stack development",
+      "visual": "app"
+    },
+    {
+      "title": "Team Mood Tracker & Analytics Dashboard",
+      "duration": "2025",
+      "description": "Built an analytics dashboard to monitor team sentiment over time using JSON logs. Used Python for text analysis and Power BI for dynamic visualizations.",
+      "technologies": "Python, Power BI, JSON",
+      "github": "",
+      "demo": "",
+      "category": "Data analytics",
+      "kind": "Portfolio project",
+      "discipline": "Data analysis · Visualization",
+      "visual": "analytics"
+    }
+  ],
+  "experience": [
+    {
+      "title": "AI Engineer",
+      "company": "Lenok Solutions, Kozhikode, Kerala",
+      "duration": "Dec 2025 – Present",
+      "type": "Professional experience",
+      "description": "Develop enterprise AI applications using Python, FastAPI, PostgreSQL, Docker, React, and PyTorch.",
+      "highlights": [
+        "Build multi-camera computer vision pipelines for real-time object detection, aircraft and ground-support-equipment segmentation, tracking, and event analysis.",
+        "Develop RAG applications using LangChain, Spring AI, Ollama, FAISS, and vector databases for enterprise document retrieval.",
+        "Design REST APIs and telemetry services; optimize inference, tracking accuracy, and real-time processing reliability."
+      ]
+    },
+    {
+      "title": "Full-Stack Development Program",
+      "company": "Kodnest Technologies, Bangalore",
+      "duration": "2025",
+      "description": "Completed practical training in Core Java, Python, SQL, Frontend Development, JavaScript, and React.js. Covered OOP, DSA, Collections, REST APIs, JDBC, MySQL, Servlets, JSP, Hibernate, Spring Boot, and Maven."
+    },
+    {
+      "title": "Data Science & Analytics Intern",
+      "company": "Zidio Development",
+      "duration": "Mar 2025 – May 2025",
+      "description": "Integrated BERT, Whisper, and FER models for real-time emotion detection. Created dashboards for HR alerts and mood tracking."
+    },
+    {
+      "title": "Data Engineering Intern",
+      "company": "NSDC (National Skill Development Corporation)",
+      "duration": "Oct 2024 – Dec 2024",
+      "description": "Built ETL pipelines, performed data migration, and created Power BI dashboards. Improved reporting speed by 20%. Automated data transformation tasks using Python scripts. Practiced SQL queries and joins and used Talend Open Studio for ETL workflows."
+    },
+    {
+      "title": "AI/Web Development Intern",
+      "company": "TORC INFOTECH",
+      "duration": "Oct 2023 – Nov 2023",
+      "description": "Built recommendation engine and sentiment analyzer using Python, HTML, CSS. Deployed on a responsive dashboard."
+    },
+    {
+      "title": "Android Development Intern",
+      "company": "GENESIS",
+      "duration": "Oct 2022 – Nov 2022",
+      "description": "Built calculator and music player apps in Java/XML. Focused on UI/UX, efficiency, and deployment."
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.E. in Artificial Intelligence and Machine Learning",
+      "institution": "Yenepoya Institute of Technology (Visvesvaraya Technological University)",
+      "duration": "2021 – 2025",
+      "honors": "First Class with Distinction"
+    },
+    {
+      "degree": "Senior Secondary (DHSE)",
+      "institution": "",
+      "duration": "2021",
+      "percentage": "87%"
+    },
+    {
+      "degree": "Secondary (Kerala Board of Public Examination)",
+      "institution": "",
+      "duration": "2019",
+      "percentage": "77%"
+    }
+  ],
+  "certifications": [],
+  "extraActivities": [],
+  "languages": ["English", "Hindi", "Malayalam", "Arabic", "Kannada", "Tamil"],
+  "hobbies": [],
+  "interests": [
+    "AI & ML",
+    "Data Science",
+    "Full-Stack Development",
+    "Software Development",
+    "Data Analysis"
+  ],
+  "chatbotFAQs": {
+    "skills": "Skills include Machine Learning, Deep Learning, CNN, Computer Vision, NLP, Generative AI, LLMs, RAG, Model Tuning, BERT, FER, Whisper, YOLOv8, YOLOv8-Seg, YOLO26-Pose, ByteTrack, OCSort, OpenCV, ONNX Runtime, RapidOCR, Object Detection, Segmentation, Tracking, PyTorch, TensorFlow, FastAPI, Flask, Spring Boot, Spring AI, LangChain, Ollama, Azure Document Intelligence, Microsoft Foundry, Python, Java, C, C++, SQL, HTML/CSS, JavaScript, TypeScript, React.js, R (Basic), Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau (Basic), ETL, Data Wrangling, Dashboarding, Data Engineering, Talend Open Studio, PostgreSQL, MySQL, MongoDB, SQLite, PgVector, FAISS, REST APIs, WebSockets, Spring Data JPA, Hibernate, API-key Filters, Docker, Maven, Git, GitHub, Postman, Web Deployment, OOP, DSA, Scripting, File I/O, Data Handling, Error Handling, Full-Stack Development, Jupyter Notebook, VS Code, UiPath, RPA, Selenium, Requests, TextBlob, Pyttsx3.",
+    "projects": "Projects include Lenok TMS — Turnaround Management System, Lenok Airport CRM — AI Contract Extraction and Review, Enterprise Vision Extraction Engine — Airport Utility OCR, SmartLog Occupancy, Airport Management RAG Chatbot, AI-Powered Task Optimizer, Sign Language to Text & Audio Generator, Emotion Detection with OpenCV, Crop Disease Detection with CNN, College Management System, Team Mood Tracker & Analytics Dashboard.",
+    "qualifications": "B.E. in AIML (2021–2025), First Class with Distinction; Senior Secondary 87%; Secondary 77%.",
+    "internships": "Zidio (Data Science & Analytics), NSDC (Data Engineering), TORC INFOTECH (AI/Web Dev), GENESIS (Android Dev).",
+    "education": "B.E. in AIML (2021–2025), First Class with Distinction; Senior Secondary 87%; Secondary 77%.",
+    "hobbies": "Not specified, but interests include AI, ML, Data Science, and development.",
+    "soft skills": "Communication, Teamwork, Leadership, Problem Solving, Time Management, Analytical Thinking, Adaptability, Team Collaboration.",
+    "interested roles": "Seeking opportunities in AI engineering, data science, machine learning, and data analytics. Also interested in data engineering, Python development, full-stack development, and software engineering, bringing programming expertise and problem-solving skills to efficient, scalable applications.",
+    "default": "I can only answer about Daneesh’s profile and career."
+  },
+  "availability": "Open to new opportunities",
+  "location": "Kozhikode, Kerala",
+  "targetRoles": [
+    "AI Engineer",
+    "Data Scientist",
+    "Data Analyst",
+    "Machine Learning Engineer"
+  ]
+}
